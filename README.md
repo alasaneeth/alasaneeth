@@ -1,7 +1,5 @@
 ## Hi there I'm Saneeth👋
 
-### 🏅 Microsoft Learning Badges
-Here are some of the badges I’ve earned from Microsoft Learn:
 <!--
 **alasaneeth/alasaneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
