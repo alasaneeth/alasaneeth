@@ -1,5 +1,13 @@
 ## Hi there I'm Saneeth👋
 
+I'm a Software Engineer from Sri Lanka. I love building web apps.
+
+[![Follow](https://img.shields.io/badge/Follow-24292e?style=flat&logo=github&logoColor=white)](https://github.com/alasaneeth)
+![Profile views](https://komarev.com/ghpvc/?username=alasaneeth&color=0075B4&style=flat&label=Profile+views)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aasifsaneeth)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94740822580)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alasaneeth)
+
 <!--
 **alasaneeth/alasaneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
