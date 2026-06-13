@@ -26,6 +26,13 @@ I'm a Passionate Software Engineer from Sri Lanka.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alasaneeth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasaneeth&layout=donut&theme=tokyonight" />
+</p>
 <!--
 **alasaneeth/alasaneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
