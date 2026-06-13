@@ -1,12 +1,14 @@
 ## Hi there I'm Saneeth👋
 
-I'm a Software Engineer from Sri Lanka. I love building web apps.
+I'm a Passionate Software Engineer from Sri Lanka.
 
-[![Follow](https://img.shields.io/badge/Follow-24292e?style=flat&logo=github&logoColor=white)](https://github.com/alasaneeth)
-![Profile views](https://komarev.com/ghpvc/?username=alasaneeth&color=0075B4&style=flat&label=Profile+views)
-[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/aasifsaneeth)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/+94740822580)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/alasaneeth)
+[![Follow](https://img.shields.io/badge/Follow-24292e?style=flat&logo=github&logoColor=white)](https://github.com/saneeth)
+![Profile views](https://komarev.com/ghpvc/?username=saneeth&color=0075B4&style=flat&label=Profile+views)
+![Name](https://img.shields.io/badge/Saneeth-555?style=flat&logo=user)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/saneeth)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94771234567)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saneeth)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white)](https://saneeth-portfolio.vercel.app/)
 
 <!--
 **alasaneeth/alasaneeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
