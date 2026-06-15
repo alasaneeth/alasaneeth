@@ -8,7 +8,8 @@ I'm a Passionate Software Engineer from Sri Lanka.
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white)](https://instagram.com/saneeth)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/94771234567)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/saneeth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white)](https://saneeth-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=vercel&logoColor=white)](https://saneethportfolio.vercel.app/)
+[![Google Developer Program](https://img.shields.io/badge/Google%20Developer%20Program-Member-blue?style=flat&logo=google&logoColor=white&labelColor=white&color=4169E1)](https://me.developers.google.com/u/105408648384820268524)
 
 ## ⚙ Tech Stack
 
