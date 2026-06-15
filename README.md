@@ -32,6 +32,7 @@ I'm a Passionate Software Engineer from Sri Lanka.
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alasaneeth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasaneeth&layout=donut&theme=tokyonight" />
-</p>
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasaneeth&layout=donut&theme=tokyonight" />
+</p>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alasaneeth&layout=donut&theme=tokyonight&exclude_repo=REPO1,REPO2&hide=jupyter%20notebook,php,blade" />
 
